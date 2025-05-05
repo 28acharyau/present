@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea52681-42d7-4d12-824f-e77447588c97" name="Changes" comment="" />
+    <list default="true" id="5ea52681-42d7-4d12-824f-e77447588c97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/present.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fries.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KFC.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Taco.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Welcome Pic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favsp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soccer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrdart.gif" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wMX6dydSBKWWLbzPdmxVIrhkyo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,9 +45,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\28acharyau\PycharmProjects\present" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
